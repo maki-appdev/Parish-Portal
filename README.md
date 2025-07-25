@@ -22,3 +22,6 @@ Project Team Leader and Full-Stack Developer
 Designed front-end pages using HTML/CSS and Bootstrap
 Built backend logic with PHP and MySQL
 Managed user authentication and dynamic content loading
+
+
+
